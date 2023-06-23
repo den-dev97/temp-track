@@ -1,15 +1,17 @@
 import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router'
+import ListPage from './pages/ListPage.vue'
+import CreateOrUpdateRecord from './pages/CreateOrUpdateRecord.vue'
 
 const routes: Array<RouteRecordRaw> = [
     {
         path: '/',
         name: 'ListPage',
-        component: () => import('./pages/ListPage.vue'),
+        component: () => ListPage,
     },
     {
         path: '/edit/:id?',
         name: 'CreateOrUpdateRecord',
-        component: () => import('./pages/CreateOrUpdateRecord.vue'),
+        component: () => CreateOrUpdateRecord,
     },
 ]
 
