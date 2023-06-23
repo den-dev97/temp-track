@@ -5,6 +5,11 @@
 </template>
 
 <script setup lang="ts">
+if (process.env.NODE_ENV === 'production') {
+  console.log('We are in production mode');
+} else {
+  console.log('We are in development mode');
+}
 </script>
 
 <style lang="scss">
