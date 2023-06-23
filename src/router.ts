@@ -6,12 +6,12 @@ const routes: Array<RouteRecordRaw> = [
     {
         path: '/',
         name: 'ListPage',
-        component: () => ListPage,
+        component: ListPage,
     },
     {
         path: '/edit/:id?',
         name: 'CreateOrUpdateRecord',
-        component: () => CreateOrUpdateRecord,
+        component: CreateOrUpdateRecord,
     },
 ]
 
