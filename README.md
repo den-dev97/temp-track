@@ -1,7 +1,11 @@
 # Vue Temperature Record Manager
+
 ###Техническое задание:
+
 ![app-preview](src/assets/img/technical-specification.png)
+
 ###Решение:
+
 ![app-preview](src/assets/img/preview-img.png)
 
 Этот проект - простое приложение для управления записями температуры, разработанное с использованием Vue 3, Vue Router, Vuex, TypeScript и SCSS.
