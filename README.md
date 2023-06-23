@@ -7,7 +7,7 @@
 ### Решение:
 
 ![app-preview](src/assets/img/preview-img.png)
-
+### [Link/Ссылка](https://den-dev97.github.io/temp-track/#/)
 Этот проект - простое приложение для управления записями температуры, разработанное с использованием Vue 3, Vue Router, Vuex, TypeScript и SCSS.
 
 ## Функциональность
