@@ -1,10 +1,10 @@
 # Vue Temperature Record Manager
 
-###Техническое задание:
+### Техническое задание:
 
 ![app-preview](src/assets/img/technical-specification.png)
 
-###Решение:
+### Решение:
 
 ![app-preview](src/assets/img/preview-img.png)
 
