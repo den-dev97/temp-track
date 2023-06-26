@@ -1,11 +1,5 @@
 # Vue Temperature Record Manager
 
-### Техническое задание:
-
-![app-preview](src/assets/img/technical-specification.png)
-
-### Решение:
-
 ![app-preview](src/assets/img/preview-img.png)
 ### [Link/Ссылка](https://den-dev97.github.io/temp-track/#/)
 Этот проект - простое приложение для управления записями температуры, разработанное с использованием Vue 3, Vue Router, Vuex, TypeScript и SCSS.
@@ -42,6 +36,10 @@
 - `ModalWindow.vue`: This component is a general-purpose modal window that can be used anywhere in the application.
 - `router.ts`: Defines the routes for the application.
 - `store.ts`: Defines the Vuex store for managing the state of the application.
+
+### Техническое задание / technical specification:
+
+![app-preview](src/assets/img/technical-specification.png)
 
 ## Project setup
 ```
