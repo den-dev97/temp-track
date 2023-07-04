@@ -37,9 +37,7 @@
 - `router.ts`: Defines the routes for the application.
 - `store.ts`: Defines the Vuex store for managing the state of the application.
 
-### Техническое задание / technical specification:
 
-![app-preview](src/assets/img/technical-specification.png)
 
 ## Project setup
 ```
